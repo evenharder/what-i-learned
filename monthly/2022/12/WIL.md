@@ -3,13 +3,13 @@
 아직 전반적인 내용은 추가가 필요하다.
 
 # Major Activities (WIP)
-- [실용주의 프로그래머 완독](monthly/2022/12/WIL-Pragmatic-Programmer.md) : 몇 달 뒤에 다시 읽어보자.
-- [Termux 설치 및 개발 환경 구축](monthly/2022/12/WIL-Termux.md) : 프로그래밍 공부할 때 꼭 PC가 필요하진 않겠다는 생각이 들 정도였다.
-- [VS Code 입문](monthly/2022/12/WIL-VS-Code.md) : 강력하긴 하다.
-- [Vim 입문](monthly/2022/12/WIL-Vim.md) : 아직 걸음마 떼는 수준이다.
-- [Shell script를 이용하여 C++ 컴파일 및 실행 간편화](monthly/2022/12/WIL-Shell-script.md) : 누군가 이미 만들어놓았겠지만, 나라고 못 만들 건 없다.
-- [PowerShell를 이용하여 C++ 컴파일 및 실행 간편화](monthly/2022/12/WIL-PowerShell.md) : 위에서 만든 script를 거의 비슷하게 포팅했다.
-- [Competitive Programming으로 개발환경 숙달 및 BOJ 대회 참여](monthly/2022/12/WIL-Competitive-Programming.md) : 대회를 잘 치지 못할 때 마음을 추스리기는 아직도 어렵다.
+- [실용주의 프로그래머 완독](WIL-Pragmatic-Programmer.md) : 몇 달 뒤에 다시 읽어보자.
+- [Termux 설치 및 개발 환경 구축](WIL-Termux.md) : 프로그래밍 공부할 때 꼭 PC가 필요하진 않겠다는 생각이 들 정도였다.
+- [VS Code 입문](WIL-VS-Code.md) : 강력하긴 하다.
+- [Vim 입문](WIL-Vim.md) : 아직 걸음마 떼는 수준이다.
+- [Shell script를 이용하여 C++ 컴파일 및 실행 간편화](WIL-Shell-script.md) : 누군가 이미 만들어놓았겠지만, 나라고 못 만들 건 없다.
+- [PowerShell를 이용하여 C++ 컴파일 및 실행 간편화](WIL-PowerShell.md) : 위에서 만든 script를 거의 비슷하게 포팅했다.
+- [Competitive Programming으로 개발환경 숙달 및 BOJ 대회 참여](WIL-Competitive-Programming.md) : 대회를 잘 치지 못할 때 마음을 추스리기는 아직도 어렵다.
 
 # To-do
 - `.bash_aliases` 같은 파일을 저장하는 dotfile repo를 언젠가는 만들어야겠다.
